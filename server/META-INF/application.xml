@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xmlns="http://java.sun.com/xml/ns/javaee"-->
+<application xmlns="http://xmlns.jcp.org/xml/ns/javaee/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_8.xsd"
+             version="8">
+
+    <module id="mp-iii-gf5-Web">
+        <web>
+            <context-root>mp-iii-gf5Web</context-root>
+            <web-uri>web.war</web-uri>
+        </web>
+    </module>
+</application>
